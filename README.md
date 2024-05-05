@@ -22,6 +22,8 @@ The dataset used in this project is an Excel file containing sales data for Walm
 # Project Structure
 
 The project is structured as follows:
+
+'''
 pandas-powered-walmart-q1-2023-sales-insights/
 ├── data/
 │ └── walmart_sales_q1_2023.xlsx
@@ -32,8 +34,7 @@ pandas-powered-walmart-q1-2023-sales-insights/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-
-
+'''
 
 - `data/`: This directory contains the Excel file with the Walmart sales data for Q1 2023.
 - `notebooks/`: This directory contains Jupyter Notebooks used for data exploration, analysis, and visualization.
@@ -64,10 +65,19 @@ pip install -r requirements.txt
 4. Open the Jupyter Notebook `walmart_sales_analysis.ipynb` in the `notebooks/` directory.
 5. Follow the instructions and code examples in the notebook to perform data exploration, analysis, and visualization.
 
-# Contributing
+# Support and Contact
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+If you have any questions, please feel free to contact me at [vasudevanswornampillai@gmail.com].
 
 # License
 
-This project is licensed under the **Apache License 2.0**
+This project is licensed under the **Apache 2.0 License**.
+
+# Share with the community
+
+If you find this project interesting or helpful, don't hesitate to share with your community! Let's learn and grow together!
+
+# Conclusion
+
+In this project, we’ve developed a robust solution for Pandas Assisted Sales Trend Analysis. The model, a beacon of performance, awaits those go into the beautiful world of Python.
+
