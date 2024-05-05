@@ -23,7 +23,8 @@ The dataset used in this project is an Excel file containing sales data for Walm
 
 The project is structured as follows:
 
-'''
+```
+
 pandas-powered-walmart-q1-2023-sales-insights/
 ├── data/
 │ └── walmart_sales_q1_2023.xlsx
@@ -34,7 +35,8 @@ pandas-powered-walmart-q1-2023-sales-insights/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-'''
+
+```
 
 - `data/`: This directory contains the Excel file with the Walmart sales data for Q1 2023.
 - `notebooks/`: This directory contains Jupyter Notebooks used for data exploration, analysis, and visualization.
