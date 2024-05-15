@@ -1,6 +1,6 @@
 # Pandas-Powered Walmart Q1 2023 Sales Insights
 
-This project aims to provide comprehensive sales insights for Walmart during the first quarter of 2023 by leveraging the power of the Pandas library in Python. The analysis focuses on a dataset containing 1000 rows and 12 columns, including information about Invoice IDs, Branches, Cities, Customer Types, Genders, Product Lines, Unit Prices, Quantities, Dates, Times, Payment Methods, and Ratings.
+This project aims to provide comprehensive sales insights for Walmart during the first quarter of 2023 by leveraging the power of the Pandas library in Python. The analysis focuses on a dataset containing 1000 rows and 12 columns including information about Invoice IDs, Branches, Cities, Customer Types, Genders, Product Lines, Unit Prices, Quantities, Dates, Times, Payment Methods, and Ratings.
 
 # Dataset
 
