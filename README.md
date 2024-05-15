@@ -50,9 +50,6 @@ pandas-powered-walmart-q1-2023-sales-insights/
 The project relies on the following Python packages:
 
 - pandas
-- numpy
-- matplotlib
-- seaborn
 
 You can install the required packages by running the following command:
 pip install -r requirements.txt
